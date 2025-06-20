@@ -11,8 +11,7 @@ PythonのTkinterで作ったシンプルなテトリスです。
 
 ```bash
 python main_menu.py
-
-
+```
 
 ## 操作方法
 
