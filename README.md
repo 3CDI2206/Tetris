@@ -7,8 +7,11 @@ PythonのTkinterで作ったシンプルなテトリスです。
 ## 起動方法
 
 1. 必要ファイル（`main_menu.py`, `game.py`）を同じフォルダに配置
-2. 以下のコマンドでメインメニューを起動：```bash
+2. 以下のコマンドを実行：
+
+```bash
 python main_menu.py
+
 
 
 ## 操作方法
